@@ -1,0 +1,11 @@
+fitz
+tabula
+camelot
+nltk
+openai
+faiss-cpu
+numpy
+spacy
+flask
+transformers
+sentence_transformers 
