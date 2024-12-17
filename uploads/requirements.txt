@@ -1,11 +1,9 @@
-fitz
-tabula
-camelot
-nltk
-openai
-faiss-cpu
+streamlit
+Flask  # For werkzeug.utils (Flask dependency)
+faiss-cpu  # CPU version of FAISS, adjust to faiss-gpu if using GPU
 numpy
-spacy
-flask
+nltk
+pymupdf  # Alias for fitz (PyMuPDF)
+sentence-transformers
 transformers
-sentence_transformers 
+
